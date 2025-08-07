@@ -1,4 +1,4 @@
-# Diffusers SDXL Docker 환경
+# SDXL Docker 실행 예제
 
 Stable Diffusion XL (SDXL)을 Docker 환경에서 실행하기 위한 프로젝트입니다.
 SDXL은 텍스트 프롬프트를 입력받아 고품질의 이미지를 생성하는 최신 AI 모델로, 1024x1024 해상도의 이미지를 생성할 수 있습니다.
