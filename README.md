@@ -22,7 +22,7 @@ docker build -t diffusers-sdxl:pytorch -f Dockerfile .
 docker build -t diffusers-sdxl:ubuntu -f Dockerfile.ubuntu .
 ```
 
-## 사용 예제
+## 예제 실행 방법
 
 ### 1. 캡션 파일 준비
 
